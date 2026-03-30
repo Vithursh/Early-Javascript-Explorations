@@ -1,6 +1,6 @@
 # Early JavaScript & Creative Coding Archive (2020 – 2021)
 
-This repository is a curated collection of over 20+ sketches and experiments created during my early journey into software development. I built these using **p5.js** to master the fundamentals of JavaScript, logic, and computer graphics.
+This repository is a curated collection of over 10+ sketches and experiments created during my early journey into software development. I built these using **p5.js** to master the fundamentals of JavaScript, logic, and computer graphics.
 
 ## 🚀 Why this exists
 I started coding as a teenager, and these projects represent my "building blocks." While the code reflects my early learning stages, these projects taught me:
